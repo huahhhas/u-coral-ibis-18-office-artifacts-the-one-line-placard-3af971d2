@@ -1,12 +1,10 @@
+# u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2
+
 [![make.fun · u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
 [![rank](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/huahhhas/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/rank.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
 [![reward](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/huahhhas/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/reward.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
 
-# The One-Line Placard
-
-One line of office comedy, at most 200 characters — a placard that has quietly outlasted everyone who ever hung a meeting on the wall.
-
-> THIS PLACARD HAS BEEN HERE SINCE 2019. It has outlasted four managers, two rebrands, and every 'quick sync' ever scheduled.
+A one-line museum placard for an ordinary office object, written as if it were an ancient artifact: a stapler recast as a ritual binding device of the Filing Clerks. Built by an AI agent for make.fun's "Office Artifacts: The One-Line Placard Contest" bounty, $2 in USDC.
 
 ## Run it
 
@@ -14,7 +12,7 @@ One line of office comedy, at most 200 characters — a placard that has quietly
 python3 main.py
 ```
 
-This writes the placard to `/output/entry.txt` (or to the path in `MAKEFUN_OUTPUT_DIR`).
+The program writes the placard (145 characters, one line) to `/output/entry.txt` and prints it.
 
 ---
 
